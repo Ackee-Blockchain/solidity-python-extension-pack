@@ -4,7 +4,7 @@ The Solidity Python Extension Pack is the ultimate toolkit for Solidity and Pyth
 
 ## Extensions Included
 
-- **[Solidity](https://marketplace.visualstudio.com/items?itemName=AckeeBlockchain.tools-for-solidity)**: Advanced Solidity support and vulnerability detectors developed by Ackee Blockchain.
+- **[Solidity (Wake)](https://marketplace.visualstudio.com/items?itemName=AckeeBlockchain.tools-for-solidity)**: Advanced Solidity support and vulnerability detectors developed by Ackee Blockchain.
 - **[Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)**: Get full Python language support, including IntelliSense, linting, debugging, and more.
 - **[Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)**: Enhance your Python experience with fast and feature-rich language support, powered by Pylance.
 - **[Python Test Adapter](https://marketplace.visualstudio.com/items?itemName=littlefoxteam.vscode-python-test-adapter)**: Run your Python tests directly from the Test Explorer in VS Code.
