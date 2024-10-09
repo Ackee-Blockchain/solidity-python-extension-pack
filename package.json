@@ -11,7 +11,9 @@
     "python",
     "security",
     "testing",
-    "development"
+    "development",
+    "wake",
+    "remix"
   ],
   "repository": {
     "type": "git",
