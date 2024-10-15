@@ -1,5 +1,9 @@
+## 0.1.3
+### Updates
+- Updated the extension icon
+
 ## 0.1.2
-### Features
+### Updates
 - Included the Black Formatter extension in favour of autopep8
 
 ## 0.1.1
