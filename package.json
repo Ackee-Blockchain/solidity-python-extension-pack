@@ -2,7 +2,7 @@
   "name": "solidity-python-pack",
   "displayName": "Solidity Python Extension Pack",
   "description": "Essential toolkit for Solidity and Python developers. Effortlessly code, test, and deploy smart contracts with Solidity, while utilizing Python for testing. All from VS Code, in this one extension from Ackee Blockchain.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publisher": "ackeeblockchain",
   "keywords": [
     "solidity",
@@ -32,7 +32,7 @@
     "ms-python.vscode-pylance",
     "littlefoxteam.vscode-python-test-adapter",
     "ms-python.isort",
-    "ms-python.autopep8",
+    "ms-python.black-formatter",
     "KevinRose.vsc-python-indent",
     "tamasfe.even-better-toml"
   ]
