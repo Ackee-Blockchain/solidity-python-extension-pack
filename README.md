@@ -9,7 +9,7 @@ The Solidity Python Extension Pack is the ultimate toolkit for Solidity and Pyth
 - **[Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)**: Enhance your Python experience with fast and feature-rich language support, powered by Pylance.
 - **[Python Test Adapter](https://marketplace.visualstudio.com/items?itemName=littlefoxteam.vscode-python-test-adapter)**: Run your Python tests directly from the Test Explorer in VS Code.
 - **[isort](https://marketplace.visualstudio.com/items?itemName=ms-python.isort)**: Automatically sort your Python imports to keep your code clean and organized.
-- **[autopep8](https://marketplace.visualstudio.com/items?itemName=ms-python.autopep8)**: Automatically format your Python code to adhere to the PEP 8 style guide.
+- **[Black Formatter](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter)**: Automatically format your Python code to adhere to the PEP 8 style guide.
 - **[Python Indent](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent)**: Maintain consistent indentation in your Python code with smart indentation handling.
 - **[Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)**: Enjoy improved syntax highlighting and validation for TOML files, commonly used for configuration. Useful for Wake configuration.
 
